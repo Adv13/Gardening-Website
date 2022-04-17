@@ -1,4 +1,4 @@
-# First React project : project n°11 from the openclassrooms training
+# Gardening Website with React.js framework
 
 
 # Getting Started with Create React App
