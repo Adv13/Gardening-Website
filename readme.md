@@ -1,4 +1,4 @@
-# Gardening Website with React.js framework test
+# Gardening Website with React.js framework
 
 
 # Getting Started with Create React App
